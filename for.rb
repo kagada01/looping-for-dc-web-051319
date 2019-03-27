@@ -4,4 +4,5 @@ def using_for
   for spell in using_for
 	  puts "Wingardium Leviosa"
 end
+end
 
