@@ -1,8 +1,9 @@
 
 def using_for
 	checklist = 1..10
-for spell in using_for
+  for spell in using_for
 	  puts "Wingardium Leviosa"
+	end
 end
 
 
